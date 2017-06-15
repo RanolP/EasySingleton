@@ -1,0 +1,2 @@
+# EasySingleton
+Java singleton library
