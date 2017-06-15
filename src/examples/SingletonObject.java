@@ -6,7 +6,6 @@ import me.ranol.easysingleton.Singletons;
 @Singleton
 public class SingletonObject {
     private SingletonObject() {
-        throw new UnsupportedOperationException("Cannot instantiation singleton object");
     }
 
     public static SingletonObject getInstance() {
